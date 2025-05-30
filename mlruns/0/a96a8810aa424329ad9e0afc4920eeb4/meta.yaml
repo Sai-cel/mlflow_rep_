@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2000a/mlflow_prac/mlruns/0/a96a8810aa424329ad9e0afc4920eeb4/artifacts
+end_time: 1748408741268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a96a8810aa424329ad9e0afc4920eeb4
+run_name: overjoyed-crow-555
+run_uuid: a96a8810aa424329ad9e0afc4920eeb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748408741134
+status: 4
+tags: []
+user_id: 2000a

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2000a/mlflow_prac/mlruns/0/adfd9cc403ae452d9150e2dedf7f05fa/artifacts
+end_time: 1748408837791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adfd9cc403ae452d9150e2dedf7f05fa
+run_name: resilient-skink-744
+run_uuid: adfd9cc403ae452d9150e2dedf7f05fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748408836732
+status: 3
+tags: []
+user_id: 2000a

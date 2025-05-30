@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2000a/mlflow_prac/mlruns/0/48b7b59aef284f5fa32606b7dff5bdd6/artifacts
+end_time: 1748408784430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48b7b59aef284f5fa32606b7dff5bdd6
+run_name: serious-cod-233
+run_uuid: 48b7b59aef284f5fa32606b7dff5bdd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748408784323
+status: 4
+tags: []
+user_id: 2000a

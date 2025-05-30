@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2000a/mlflow_prac/mlruns/560058458828240341/b4096df1411a4e7e861832801337121e/artifacts
+end_time: 1748581814245
+entry_point_name: ''
+experiment_id: '560058458828240341'
+lifecycle_stage: active
+run_id: b4096df1411a4e7e861832801337121e
+run_name: funny-turtle-581
+run_uuid: b4096df1411a4e7e861832801337121e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748581813636
+status: 4
+tags: []
+user_id: 2000a

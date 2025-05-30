@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2000a/mlflow_prac/mlruns/0/dcbc97ea89e64f28909731a6be8cb004/artifacts
+end_time: 1748407385986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcbc97ea89e64f28909731a6be8cb004
+run_name: omniscient-foal-119
+run_uuid: dcbc97ea89e64f28909731a6be8cb004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748407385879
+status: 4
+tags: []
+user_id: 2000a

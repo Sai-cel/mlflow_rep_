@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2000a/mlflow_prac/mlruns/0/95af562cf8e447568bba07c41e492fc3/artifacts
+end_time: 1748348329354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95af562cf8e447568bba07c41e492fc3
+run_name: defiant-whale-354
+run_uuid: 95af562cf8e447568bba07c41e492fc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748348329307
+status: 4
+tags: []
+user_id: 2000a

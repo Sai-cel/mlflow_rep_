@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2000a/mlflow_prac/mlruns/0/6a37a1f986a148bba49ea4d0f0b4cdd6/artifacts
+end_time: 1748348421236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a37a1f986a148bba49ea4d0f0b4cdd6
+run_name: treasured-bear-413
+run_uuid: 6a37a1f986a148bba49ea4d0f0b4cdd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748348421156
+status: 3
+tags: []
+user_id: 2000a

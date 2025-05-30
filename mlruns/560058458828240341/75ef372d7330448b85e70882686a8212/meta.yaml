@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2000a/mlflow_prac/mlruns/560058458828240341/75ef372d7330448b85e70882686a8212/artifacts
+end_time: 1748581892508
+entry_point_name: ''
+experiment_id: '560058458828240341'
+lifecycle_stage: active
+run_id: 75ef372d7330448b85e70882686a8212
+run_name: nimble-hound-771
+run_uuid: 75ef372d7330448b85e70882686a8212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748581874583
+status: 3
+tags: []
+user_id: 2000a

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2000a/mlflow_prac/mlruns/560058458828240341/e505c0896e0942c19800ad9e109ffe0b/artifacts
+end_time: 1748582185638
+entry_point_name: ''
+experiment_id: '560058458828240341'
+lifecycle_stage: active
+run_id: e505c0896e0942c19800ad9e109ffe0b
+run_name: incongruous-rat-931
+run_uuid: e505c0896e0942c19800ad9e109ffe0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748582174092
+status: 3
+tags: []
+user_id: 2000a
