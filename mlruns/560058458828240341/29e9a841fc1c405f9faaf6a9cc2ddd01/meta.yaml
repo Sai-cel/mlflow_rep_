@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2000a/mlflow_prac/mlruns/560058458828240341/29e9a841fc1c405f9faaf6a9cc2ddd01/artifacts
+end_time: 1748666670827
+entry_point_name: ''
+experiment_id: '560058458828240341'
+lifecycle_stage: active
+run_id: 29e9a841fc1c405f9faaf6a9cc2ddd01
+run_name: thundering-cow-857
+run_uuid: 29e9a841fc1c405f9faaf6a9cc2ddd01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748666659850
+status: 3
+tags: []
+user_id: 2000a
